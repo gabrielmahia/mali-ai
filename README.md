@@ -9,4 +9,4 @@ Investment basics, NSE, government bonds, SACCOs, and savings — in Swahili.
 ⚠️ Educational only — not financial advice.
 ## Data: NSE (nse.co.ke) | CMA (cma.or.ke) | CBK (centralbank.go.ke)
 ---
-*gabrielmahia.ai | CC BY-NC-ND 4.0*
+*gabrielmahia.github.io | MIT License*
