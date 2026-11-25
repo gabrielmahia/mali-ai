@@ -87,4 +87,4 @@ with tab4:
         st.markdown(f'<div class="mali-card">{result.replace(chr(10),"<br>")}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("📈 Mali AI v1.0 | NSE: nse.co.ke | Capital Markets: cma.or.ke | Si ushauri rasmi | CC BY-NC-ND 4.0")
+st.caption("📈 Mali AI v1.0 | NSE: nse.co.ke | Capital Markets: cma.or.ke | Si ushauri rasmi | MIT")
